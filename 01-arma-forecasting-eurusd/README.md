@@ -16,13 +16,13 @@ Podrobný výklad s tabuľkami a grafmi je v **[reporte (PDF)](CARA_U01_report.p
 
 ## Súbory a spustenie
 
-- [`arma_eurusd.ipynb`](CARA_U01.ipynb) — kompletná analýza, spustiteľná odhora nadol
+- [`CARA_U01.ipynb`](CARA_U01.ipynb) — kompletná analýza, spustiteľná odhora nadol
 - `data.csv` — stiahnutý časový rad (súčasť repa, analýza je plne replikovateľná)
 - Bunky so sťahovaním z FRED API sú v notebooku ponechané ako neaktívne (`raw`) — dokumentujú presný pôvod dát (séria DEXUSEU) bez nutnosti vlastného API kľúča
 
 ```bash
 pip install pandas numpy matplotlib statsmodels scipy jupyterlab
-jupyter lab arma_eurusd.ipynb
+jupyter lab CARA_U01.ipynb
 ```
 
 Zdroj dát: Federal Reserve Economic Data — https://fred.stlouisfed.org/series/DEXUSEU
