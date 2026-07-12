@@ -18,7 +18,7 @@ Téma nie je náhodná: sledovanie glykémie poznám z každodenného života, a
 - **GARCH(1,1)** — dynamika podmienenej volatility glykémie
 - **Grangerova kauzalita** deň vs. noc: denná glykémia predpovedá nočnú, opačne nie
 
-📄 [Report](03-cgm-glucose-analysis/) · 📓 notebooky: [výber pacienta](03-cgm-glucose-analysis/01_select_patient.ipynb), [analýza](03-cgm-glucose-analysis/02_analysis.ipynb)
+📄 [Report](03-cgm-glucose-analysis/CARA_projekt_report.pdf) · 📓 notebooky: [výber pacienta](03-cgm-glucose-analysis/01_select_patient.ipynb), [analýza](03-cgm-glucose-analysis/02_analysis.ipynb)
 
 > ⚠️ **Dáta nie sú súčasťou repa.** Klinické dáta DCLP3 podliehajú podmienkam Jaeb Center for Health Research a nemožno ich redistribuovať. Návod na získanie prístupu je v README projektu. Notebooky obsahujú uložené výstupy, takže výsledky si prezriete aj bez dát.
 
