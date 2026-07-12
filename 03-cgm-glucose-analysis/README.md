@@ -41,7 +41,7 @@ Priečinok `data/` aj odvodené pacientské súbory sú v `.gitignore`, aby sa d
 
 > Notebooky obsahujú uložené výstupy všetkých buniek — grafy, tabuľky aj výsledky testov si teda prezriete aj bez prístupu k dátam, priamo na GitHube alebo cez [nbviewer](https://nbviewer.org/github/danakozakova/time-series-econometrics/blob/main/03-cgm-glucose-analysis/02_analysis.ipynb).
 
-## Atribúcia a poďakovanie
+## Atribúcia
 
 Táto analýza využíva dáta z klinickej štúdie *The International Diabetes Closed Loop (iDCL) Trial: Clinical Acceptance of the Artificial Pancreas (DCLP3)*, ktoré poskytuje Jaeb Center for Health Research (https://public.jaeb.org/dataset/573). Analýza, interpretácie a závery v tomto projekte sú výhradne moje a neboli revidované ani schválené študijnou skupinou DCLP3, Jaeb Center ani sponzorom štúdie. Analyzovaný pacient je v dátach plne anonymizovaný.
 
