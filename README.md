@@ -56,4 +56,4 @@ Každý projekt má vlastný priečinok s notebookom, reportom (PDF) a dátami a
 
 ## Autorka
 
-Mgr. Dana Kozáková — štatistička a lektorka matematiky a štatistiky. 
+Mgr. Dana Kozáková — matematika, štatistika, AI. 
