@@ -33,6 +33,8 @@ Box-Jenkinsova metodológia na mesačnom kurze EUR/USD (FRED, 2000–2025, 312 p
 - rekurzívne predikcie 1–4 kroky dopredu, **expanding vs. rolling okno**
 - vlastná implementácia **Diebold-Marianovho testu**: MA(1) štatisticky signifikantne poráža naivný model (náhodnú prechádzku) na všetkých horizontoch
 
+📄 [Report](01-arma-forecasting-eurusd/CARA_U01_report.pdf) · 📓 [notebook](01-arma-forecasting-eurusd/CARA_U01.ipynb)
+
 ## [Hospodársky cyklus a Okunov zákon — Slovensko](02-okun-law-slovakia/)
 
 Štvrťročný reálny HDP a nezamestnanosť SR (1998–2025), cez finančnú krízu aj covid:
@@ -41,6 +43,8 @@ Box-Jenkinsova metodológia na mesačnom kurze EUR/USD (FRED, 2000–2025, 312 p
 - dekompozícia trendu tromi metódami (HP filter, polynomiálny trend, polynóm so zlomom) a robustnosť identifikovaných recesií naprieč metódami
 - **Okunov koeficient** podľa metódy dekompozície + stabilita cez Chow test a umelé premenné
 - bonus z dátovej reality: sezónne očistený HDP bol vo FREDe dostupný len do 2020, takže očistenie bolo treba vyriešiť vlastnoručne
+
+📄 [Report](02-okun-law-slovakia/CARA_U02_report.pdf) · 📓 [notebook](02-okun-law-slovakia/CARA_U02.ipynb)
 
 ---
 
